@@ -5,4 +5,4 @@ Contact information:
 Guoqiang Tang (guoqiang.tang@usask.ca),  Martyn P. Clark (martyn.clark@usask.ca)
 
 Reference:
-Guoqiang Tang, Martyn P. Clark, Andrew J. Newman, Andrew Wood, Simon Michael Papalexiou, Vincent Vionnet, and Paul H. Whitfield. A serially complete precipitation and temperature dataset in North America from 1979 to 2018. Earth System Science Data. 2020. (to be submitted)
+Guoqiang Tang, Martyn P. Clark, Andrew J. Newman, Andrew Wood, Simon Michael Papalexiou, Vincent Vionnet, and Paul H. Whitfield. A serially complete precipitation and temperature dataset in North America from 1979 to 2018. Earth System Science Data Discussion. 2020.
