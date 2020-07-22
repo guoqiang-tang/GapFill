@@ -14,8 +14,8 @@ Function descriptions:
 Contact information:  
 Guoqiang Tang (guoqiang.tang@usask.ca),  Martyn P. Clark (martyn.clark@usask.ca)
 
-Reference:
-Beck, H. E., Wood, E. F., Pan, M., Fisher, C. K., Miralles, D. G., van Dijk, A. I. J. M., McVicar, T. R. and Adler, R. F.: MSWEP V2 Global 3-Hourly 0.1° Precipitation: Methodology and Quantitative Assessment, Bull. Am. Meteorol. Soc., 100(3), 473–500, 2019.
-Durre, I., Menne, M. J., Gleason, B. E., Houston, T. G. and Vose, R. S.: Comprehensive Automated Quality Assurance of Daily Surface Observations, J. Appl. Meteorol. Climatol., 49(8), 1615–1633, doi:10.1175/2010JAMC2375.1, 2010.
-Guoqiang Tang, Martyn P. Clark, Andrew J. Newman, Andrew Wood, Simon Michael Papalexiou, Vincent Vionnet, and Paul H. Whitfield. A serially complete precipitation and temperature dataset in North America from 1979 to 2018. Earth System Science Data Discussion. 2020
+Reference:  
+Beck, H. E., Wood, E. F., Pan, M., Fisher, C. K., Miralles, D. G., van Dijk, A. I. J. M., McVicar, T. R. and Adler, R. F.: MSWEP V2 Global 3-Hourly 0.1° Precipitation: Methodology and Quantitative Assessment, Bull. Am. Meteorol. Soc., 100(3), 473–500, 2019.  
+Durre, I., Menne, M. J., Gleason, B. E., Houston, T. G. and Vose, R. S.: Comprehensive Automated Quality Assurance of Daily Surface Observations, J. Appl. Meteorol. Climatol., 49(8), 1615–1633, doi:10.1175/2010JAMC2375.1, 2010.  
+Guoqiang Tang, Martyn P. Clark, Andrew J. Newman, Andrew Wood, Simon Michael Papalexiou, Vincent Vionnet, and Paul H. Whitfield. A serially complete precipitation and temperature dataset in North America from 1979 to 2018. Earth System Science Data Discussion. 2020  
 Hamada, A., Arakawa, O. and Yatagai, A.: An Automated Quality Control Method for Daily Rain-gauge Data, Glob. Environ. Res., 15(2), 183–192, 2011.
