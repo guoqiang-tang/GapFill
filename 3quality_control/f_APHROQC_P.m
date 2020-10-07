@@ -298,7 +298,7 @@ end
 if flag==1
     pratio=sum(p>=0.5)/sum(p>=0);
     if pratio<=0.005
-        flag=1;
+        flag=0;
     end
 end
 
@@ -313,7 +313,7 @@ if flag==1
     ind2=p2==m2;
     num2=sum(ind2);
     if num1>3||num2>3
-        flag=1;
+        flag=0;
     end
 end
 
